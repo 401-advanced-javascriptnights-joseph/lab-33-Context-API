@@ -5,7 +5,7 @@
 ### Author: Joseph Hangarter
 
 ### Links and Resources
-* [submission PR]()
+* [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-33-Context-API/pull/2)
 
 ### Modules
 #### `index.js` - entry point
